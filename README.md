@@ -1,1 +1,1 @@
-# Stocks-Trend-analysis
+# Stock Market Analysis

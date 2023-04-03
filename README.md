@@ -14,7 +14,7 @@ The stocks we have chosen are from various industries and market caps namely :
 - Microsoft
 - Amazon
 
-To know more about stocks and their data please visit the below link: **<https://in.finance.yahoo.com/>**
+To know more about stocks and their data please visit the below link: **<https://finance.yahoo.com/?fr=sycsrp_catchall>**
 
 **The following tasks are to be performed:**
 - Read the Data from Yahoo finance website directly.

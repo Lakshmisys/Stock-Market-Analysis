@@ -8,11 +8,11 @@ Here, we will analyze data from the stock market for some technology stocks such
 Use Python libraries such as Pandas, Seaborn, and Matplotlib to extract and analyze the information, visualize it, and look at different ways to analyze the risk of a stock, based on its performance history
 
 **About the Data:**
-The stocks we have chosen are from various industries and market caps namely,
-1.Apple
-2.Google
-3.Microsoft
-4.Amazon
+The stocks we have chosen are from various industries and market caps namely : 
+1 Apple
+2 Google
+3 Microsoft
+4 Amazon
 
 To know more about stocks and their data please visit the below link: **<https://in.finance.yahoo.com/>**
 

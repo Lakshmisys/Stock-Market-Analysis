@@ -4,19 +4,19 @@ Data Science extracts meaningful insight from chunks of raw data, which is usefu
 Finance is probably one of the first to catch on to this trend with a rise in the penetration of analytics into many aspects of our lives.
 Here, we will analyze data from the stock market for some technology stocks such as Apple, Google, Amazon, and Microsoft
 
-#Objective:
+**Objective**:
 Use Python libraries such as Pandas, Seaborn, and Matplotlib to extract and analyze the information, visualize it, and look at different ways to analyze the risk of a stock, based on its performance history
 
-#About the Data:
+**About the Data:**
 The stocks we have chosen are from various industries and market caps namely,
 1.Apple
 2.Google
 3.Microsoft
 4.Amazon
 
-To know more about stocks and their data please visit the below link: <https://in.finance.yahoo.com/>
+To know more about stocks and their data please visit the below link: **<https://in.finance.yahoo.com/>**
 
-#The following tasks are to be performed:
+**The following tasks are to be performed:**
 •Read the Data from Yahoo finance website directly.
 •Perform cleaning.
 •What was the change in stock price over time?

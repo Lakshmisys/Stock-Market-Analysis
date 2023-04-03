@@ -9,10 +9,10 @@ Use Python libraries such as Pandas, Seaborn, and Matplotlib to extract and anal
 
 **About the Data:**
 The stocks we have chosen are from various industries and market caps namely : 
-1 Apple
-2 Google
-3 Microsoft
-4 Amazon
+- Apple
+- Google
+- Microsoft
+- Amazon
 
 To know more about stocks and their data please visit the below link: **<https://in.finance.yahoo.com/>**
 
